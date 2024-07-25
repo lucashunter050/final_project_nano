@@ -4,6 +4,16 @@ Many people wonder what type of plane they are boarding while waiting in the air
 
 ![p8](https://github.com/user-attachments/assets/24c4c46b-70cc-4603-8aa6-4b12505c2275)
 
+
+the image below shows the result of the classifier on a Condor A320. The model correctly assigns the aircraft to the a320 label with 53% confidence.
+
+
+![Screenshot 2024-07-25 at 9 48 34 AM](https://github.com/user-attachments/assets/b765307a-6267-48ea-bf21-35d63da3ed16)
+
+
+![Screenshot 2024-07-25 at 9 49 34 AM](https://github.com/user-attachments/assets/bbf13ade-8ee7-49c7-9997-176471d5d08a)
+
+
 ## The Algorithm
 
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
